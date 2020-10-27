@@ -9,7 +9,7 @@ import DOMPurify from 'dompurify';
 //import count from './modules/count';
 import * as countChars from './modules/countChars.js';        //counts characters in the string
 import * as countVowels from './modules/countVowels.js';        //counts vowels in the string
-
+import * as convertHex from './modules/convertHex.js';        //converts the string to hex
 
 
 //event handler for analyse button 
